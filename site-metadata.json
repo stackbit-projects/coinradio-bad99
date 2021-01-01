@@ -98,7 +98,7 @@
                     },
                     {
                         "label": "Telegram",
-                        "url": "lorem-ipsum",
+                        "url": "https",
                         "style": "link",
                         "has_icon": true,
                         "icon": "arrow-left",
