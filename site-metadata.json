@@ -89,14 +89,6 @@
                         "icon_position": "left"
                     },
                     {
-                        "label": "GitHub",
-                        "url": "https://github.com/",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "github",
-                        "icon_position": "left"
-                    },
-                    {
                         "label": "Telegram",
                         "url": "https://www.telegram.com",
                         "style": "link",
