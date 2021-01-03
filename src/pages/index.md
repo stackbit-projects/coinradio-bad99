@@ -100,6 +100,6 @@ sections:
     background: gray
     title: Latest Posts
 meta_title: CoinRad.io
-meta_description: 'Crypto '
+meta_description: Crypto trading sign
 template: landing
 ---
