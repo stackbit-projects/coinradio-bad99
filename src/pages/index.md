@@ -99,7 +99,7 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-meta_title: 'CoinRad.io Crypto '
+meta_title: CoinRad.io Crypto Trading Signals
 meta_description: The preview of the Azimuth theme
 template: landing
 ---
