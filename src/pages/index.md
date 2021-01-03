@@ -99,7 +99,7 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-meta_title: CoinRad.io
+meta_title: ''
 meta_description: Crypto trading signals
 template: landing
 ---
